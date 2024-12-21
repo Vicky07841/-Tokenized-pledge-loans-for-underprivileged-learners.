@@ -5,6 +5,8 @@ LearnToEarn is a decentralized smart contract platform built on Ethereum that in
 
 ## Contract Address
 0xe599DF848a3A073cb070B8EC111Ac36986b4229C
+![image](https://github.com/user-attachments/assets/87002390-85c9-4105-9611-0674609c3959)
+
 
 ## Project Vision
 LearnToEarn envisions a world where financial barriers to education are minimized, and learners are empowered with incentives to achieve their goals. By leveraging blockchain technology, the project creates transparency, accountability, and trust between sponsors and learners.
